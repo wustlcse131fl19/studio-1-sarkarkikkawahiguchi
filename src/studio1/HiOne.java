@@ -20,6 +20,7 @@ public class HiOne {
 		String name = ap.nextString("Enter value for arg 0");
 		//
 		// Below this line, enter code so that this program's output says
+		System.out.println("Hi, " + name + ". "+ "How are you?");
 		//      Hi, Pat.  How are you?
 		// if the value of name is "Pat"
 		//
