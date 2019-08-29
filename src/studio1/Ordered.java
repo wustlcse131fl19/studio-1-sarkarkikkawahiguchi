@@ -21,6 +21,7 @@ public class Ordered {
 		boolean isOrdered = compareOne && compareTwo;
 
 
+
 		System.out.println(isOrdered);
 
 	}
