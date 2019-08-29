@@ -9,6 +9,7 @@ public class Average {
         int n1 = ap.nextInt("The first of two integers to be averaged?");
         int n2 = ap.nextInt("The second of two integers to be averaged?");
         int add = n1+n2;
+
         int divide = add/2;
         System.out.println(divide);
     }
